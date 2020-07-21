@@ -1,6 +1,9 @@
 ### Hi I'm Javier Palacio! 👋
-### LinkedIn ->(https://www.linkedin.com/in/javier-p-21587138/)
-### Mail ->    (mailto:ayush2608@gmail.com)
+Find me around the web 🌎:
+- Learning in public on <a href="https://www.javierpalacio.es">javipaur.dev</a> 📹 ✍🏾
+- Sharing updates on <a href="https://www.linkedin.com/in/javier-p-21587138/">LinkedIn</a> 💼
+---
+⭐️ From [Javiaur](https://github.com/javipaur)
 <!-- TO make screenshot of your code, copy below link:  
 https://carbon.now.sh/ -->
 
