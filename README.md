@@ -10,7 +10,7 @@ https://carbon.now.sh/ -->
 ```javascript
 const Javipaur = {
   pronouns: "He" | "Him",
-  code: [Java,Javascript, Typescript, HTML, CSS,PHP],
+  code: [Java,Javascript, Typescript,html,css,php],
   tools: [React, SpringBoot,Spring],
   architecture: ["microservices"],
   hobbies: ["Coding", "Talking","Running",photography],
