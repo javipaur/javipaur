@@ -9,23 +9,23 @@ https://carbon.now.sh/ -->
 
 ```javascript
 const Javipaur = {
-  pronouns: ["He","Him"],
-  code: ["Java","Javascript","Typescript","html","css","php"],
-  tools: ["React","SpringBoot","Spring"],
-  architecture: ["microservices"],
-  hobbies: ["Coding", "Talking","Running",photography],
-  askMeAbout: ["web dev", "tech", "app dev", "photography"],
+  pronouns: [He,Him],
+  code: [Java,Javascript,Typescript,Html,Css,Php"],
+  tools: [React,SpringBoot,Spring],
+  architecture: [microservices],
+  hobbies: [Coding,Talking,Running,photography],
+  askMeAbout: [web dev,tech,photography],
   technologies: {
-        mobileApp: ["Android App",ionic,pwa,kotlin,angular],
+        mobileApp: [Android,Ionic,PWA,kotlin,angular],
         frontEnd: {
-            js: ["angular", "react"],
-            css: ["bootstrap"]
+            js: [Angular,React],
+            css: [Bootstrap]
         },
         backEnd: {
-            js: ["node"],         
+            js: [Node],         
         },
-        databases: ["MySql", "sqlite"],
-        misc: ["Firebase"]
+        databases: [MySql,Sqlite],
+        misc: [Firebase]
 }
 
 ```
