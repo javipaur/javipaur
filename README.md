@@ -5,9 +5,9 @@
 
 ### <div align="center">I'm Javipaur, a full-stack  developer 👨‍💻 working remotely since 1991 🚀</div>  
 
-- 🌱 I’m currently learning React and NodeJs  
+🌱 I’m currently learning React and NodeJs  
 <!--   🎓 Formación: -->
-  💻 Empleo: Desarrollador de Aplicaciones Web
+💻 Empleo: Desarrollador de Aplicaciones Web
 <br/>  
 
 
