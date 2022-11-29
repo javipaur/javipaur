@@ -1,13 +1,13 @@
-<div align="center">
+<!--<div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+</div>  -->
   
 
 ### <div align="center">I'm Javipaur, a full-stack  developer 👨‍💻 working remotely since 1991 🚀</div>  
 
 🌱 I’m currently learning React and NodeJs  
 <!--   🎓 Formación: -->
-💻 Empleo: Desarrollador de Aplicaciones Web
+💻 Empleo: Ingeniero de software
 <br/>  
 
 
