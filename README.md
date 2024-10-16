@@ -7,17 +7,7 @@
 
 🌱 I’m currently learning React and NodeJs  
 <!--   🎓 Formación: -->
-💻 Empleo: Ingeniero de software
-<br/>  
+💻 Empleo: Full Stack Dev
 
-<br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/javipaur" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
 
