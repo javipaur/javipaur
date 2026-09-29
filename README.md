@@ -79,20 +79,38 @@ Construyo **servidores MCP (Model Context Protocol)** que exponen datos de negoc
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="28" height="28" alt="GitHub Actions" title="GitHub Actions" style="vertical-align:middle;margin:0 4px">
 </p>
 
+### Documentación y contratos de API
+Swagger / OpenAPI · diseño y versionado de APIs REST · contratos de interfaz · esquemas GraphQL (Apollo)
+
 **Jenkins (pipelines CI/CD) · Docker · OpenShift · Git · GitHub · GitHub Actions · Maven · pre-commit · Scrum**
 
 ---
 
-## Proyectos
+## Productos profesionales
 
-| Proyecto | Descripción | Stack |
+Plataformas y aplicaciones que he desarrollado o mantenido en producción. Majoritariamente de cliente, muchas críticas y de integración con estructuras de administración pública.
+
+| Producto | Organismo / cliente | Qué hice | Stack |
+|---|---|---|---|
+| **keySmartCity** | Ayuntamientos de España | **Backend** de la plataforma de gestión urbana inteligente: servicios REST, persistencia y despliegue en contenedores | Spring Boot · JPA/Hibernate · MariaDB · Docker |
+| **Personas 360** | Lanbide (Gobierno Vasco) | Aplicación **construida desde cero**: frontend React y backend por microservicios | React · Spring Boot · JPA · Oracle |
+| **Docusi** | Gobierno Vasco | Plataforma de **interoperabilidad documental**; servicios SOAP (SREF) para intercambio de documentos entre entidades públicas | Spring Boot · SOAP · Oracle |
+| **T-gune** | Diputación Foral de Álava | Administración electrónica: procedimientos de tramitación y gestión de e-forms | Java · Struts 2 · JSF · WebSphere |
+| **Aplicación hospitalaria** | Glintt (Osakidetza) | Full Stack en uso diario en entornos clínicos reales | Spring Boot · Spring Security · Oracle · PostgreSQL · React · Angular |
+| **Producto propio de eventos** | Eventool | Desarrollo full stack; capa de datos con Apollo/GraphQL | J2EE · Apollo · GraphQL · Next.js · MongoDB |
+
+---
+
+## Proyectos personales con IA
+
+| Proyecto | Qué hace | Stack |
 |---|---|---|
 | [`garmin-coach-mcp`](https://github.com/javipaur/garmin-coach-mcp) | Servidor MCP que cruza datos de rendimiento deportivo y genera decisiones de entrenamiento con LLM | Python · MCP · Docker · GitHub Actions · Tests |
 | [`mercaListMcp`](https://github.com/javipaur/mercaListMcp) | Servidor MCP para gestión de listas de compra con agentes de IA | Node.js · MCP · IA |
 | [`gasteiz-agenda`](https://github.com/javipaur/gasteiz-agenda) | Agenda de eventos de Vitoria-Gasteiz | JavaScript · Vite |
 | [`huescahoy`](https://github.com/javipaur/huescahoy) | Agenda de eventos de Huesca | TypeScript |
 | [`Strava-Plan`](https://github.com/javipaur/Strava-Plan) | Analiza actividades de Strava y genera prompts personalizados para modelos de IA | TypeScript · Next.js |
-| [`ApiRest`](https://github.com/javipaur/ApiRest) | API REST con Spring Boot, Swagger y JWT | Java · Spring Boot · JPA |
+| [`ApiRest`](https://github.com/javipaur/ApiRest) | API REST con Spring Boot, Swagger/OpenAPI y JWT | Java · Spring Boot · JPA |
 
 ---
 
