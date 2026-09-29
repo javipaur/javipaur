@@ -93,9 +93,9 @@ Plataformas y aplicaciones que he desarrollado o mantenido en producción. Major
 
 | Producto | Organismo / cliente | Qué hice | Stack |
 |---|---|---|---|
-| **keySmartCity** | Ayuntamientos de España | **Backend** de la plataforma de gestión urbana inteligente: servicios REST, lógica de negocio, API documentada con **Swagger**, integración con MariaDB y servicios de terceros, **monitorización en producción** y despliegue en contenedores | Spring Boot · JPA/Hibernate · MariaDB · Docker · Swagger |
+| **keySmartCity** | Ayuntamientos de España | **Backend** de la plataforma de gestión urbana inteligente: servicios REST, lógica de negocio, API documentada con **Swagger**, integración con MariaDB y servicios de terceros, **monitorización en producción**, despliegue en contenedores y **mentoring a junic junior** del equipo | Spring Boot · JPA/Hibernate · MariaDB · Docker · Swagger |
 | **Personas 360** | Lanbide (Gobierno Vasco) | Aplicación **construida desde cero**: frontend React y backend por microservicios | React · Spring Boot · JPA · Oracle |
-| **Aplicación hospitalaria** | Glintt (Osakidetza) | Full Stack en uso diario en entornos clínicos reales, con Angular en el frontend y tests unitarios en la capa de servicios | Spring Boot · Spring Security · Oracle · PostgreSQL · React · Angular · JUnit |
+| **Aplicación hospitalaria** | Glintt (Osakidetza) | Full Stack en uso diario en entornos clínicos reales, con Angular en el frontend, tests unitarios en la capa de servicios y **code reviews** del equipo | Spring Boot · Spring Security · Oracle · PostgreSQL · React · Angular · JUnit |
 | **Docusi** | Gobierno Vasco | Plataforma de **interoperabilidad documental**; servicios SOAP (SREF) y despliegue en contenedores **OpenShift** | Spring Boot · SOAP · Oracle · OpenShift |
 | **T-gune** | Diputación Foral de Álava | Administración electrónica: procedimientos de tramitación, tests con JUnit y pipelines de CI/CD con Jenkins | Java · Struts 2 · JSF · WebSphere · Jenkins · JUnit |
 | **Producto propio de eventos** | Eventool | Desarrollo full stack; capa de datos con Apollo/GraphQL | J2EE · Apollo · GraphQL · Next.js · MongoDB |
