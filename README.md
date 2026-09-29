@@ -6,9 +6,9 @@
 
 Construyo sistemas Java de misión crítica en sanidad y sector público, y construyo **servidores MCP propios que integran LLMs en aplicaciones reales**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javierpalaciourraca/)
-[![Web](https://img.shields.io/badge/Web-javierpalacio.es-2b6cb0?style=for-the-badge)](https://javierpalacio.es)
-[![GitHub](https://img.shields.io/badge/GitHub-javipaur-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/javipaur)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javierpalaciourraca/)
+[![Web](https://img.shields.io/badge/javierpalacio.es-2b6cb0)](https://javierpalacio.es)
+[![GitHub](https://img.shields.io/badge/GitHub-javipaur-181717?logo=github&logoColor=white)](https://github.com/javipaur)
 
 </div>
 
@@ -41,22 +41,43 @@ Construyo **servidores MCP (Model Context Protocol)** que exponen datos de negoc
 ## Stack
 
 ### Backend y arquitectura
-![Java](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg) ![Spring](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg) ![Hibernate](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg) ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg) ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg)
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="28" height="28" alt="Java" title="Java" style="vertical-align:middle;margin:0 4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="28" height="28" alt="Spring" title="Spring" style="vertical-align:middle;margin:0 4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width="28" height="28" alt="Hibernate" title="Hibernate" style="vertical-align:middle;margin:0 4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="28" height="28" alt="Python" title="Python" style="vertical-align:middle;margin:0 4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="28" height="28" alt="Node.js" title="Node.js" style="vertical-align:middle;margin:0 4px">
+</p>
 
 **Java · J2EE · Spring Boot · Spring Security · Spring Cloud · JPA · Hibernate · JWT · OAuth2 · Microservicios · REST · SOAP**
 
 ### Frontend
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg) ![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg) ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg) ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg) ![Angular](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg)
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="28" height="28" alt="React" title="React" style="vertical-align:middle;margin:0 4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="28" height="28" alt="Next.js" title="Next.js" style="vertical-align:middle;margin:0 4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="28" height="28" alt="TypeScript" title="TypeScript" style="vertical-align:middle;margin:0 4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="28" height="28" alt="JavaScript" title="JavaScript" style="vertical-align:middle;margin:0 4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="28" height="28" alt="Angular" title="Angular" style="vertical-align:middle;margin:0 4px">
+</p>
 
 **React · Next.js · TypeScript · JavaScript · Angular · Storybook · HTML5 · CSS3**
 
 ### Bases de datos
-![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg) ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg) ![MariaDB](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg)
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="28" height="28" alt="PostgreSQL" title="PostgreSQL" style="vertical-align:middle;margin:0 4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="28" height="28" alt="MySQL" title="MySQL" style="vertical-align:middle;margin:0 4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" width="28" height="28" alt="MariaDB" title="MariaDB" style="vertical-align:middle;margin:0 4px">
+</p>
 
 **Oracle · PostgreSQL · MySQL · MariaDB · MongoDB · Oracle Data Integrator**
 
 ### DevOps, CI/CD y herramientas
-![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg) ![Jenkins](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg) ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg) ![GitHub Actions](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg)
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="28" height="28" alt="Docker" title="Docker" style="vertical-align:middle;margin:0 4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="28" height="28" alt="Jenkins" title="Jenkins" style="vertical-align:middle;margin:0 4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="28" height="28" alt="Git" title="Git" style="vertical-align:middle;margin:0 4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="28" height="28" alt="GitHub Actions" title="GitHub Actions" style="vertical-align:middle;margin:0 4px">
+</p>
 
 **Jenkins (pipelines CI/CD) · Docker · OpenShift · Git · GitHub · GitHub Actions · Maven · pre-commit · Scrum**
 
