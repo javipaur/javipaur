@@ -80,7 +80,7 @@ Construyo **servidores MCP (Model Context Protocol)** que exponen datos de negoc
 </p>
 
 ### Documentación y contratos de API
-Swagger / OpenAPI · diseño y versionado de APIs REST · contratos de interfaz · esquemas GraphQL (Apollo)
+Swagger / OpenAPI · diseño, documentación y mantenimiento de APIs REST · integración con servicios de terceros · esquemas GraphQL (Apollo)
 
 **Jenkins (pipelines CI/CD) · Docker · OpenShift · Git · GitHub · GitHub Actions · Maven · pre-commit · Scrum**
 
@@ -92,7 +92,7 @@ Plataformas y aplicaciones que he desarrollado o mantenido en producción. Major
 
 | Producto | Organismo / cliente | Qué hice | Stack |
 |---|---|---|---|
-| **keySmartCity** | Ayuntamientos de España | **Backend** de la plataforma de gestión urbana inteligente: servicios REST, persistencia y despliegue en contenedores | Spring Boot · JPA/Hibernate · MariaDB · Docker |
+| **keySmartCity** | Ayuntamientos de España | **Backend** de la plataforma de gestión urbana inteligente: servicios REST, lógica de negocio, API documentada con **Swagger**, integración con MariaDB y servicios de terceros, y despliegue en contenedores | Spring Boot · JPA/Hibernate · MariaDB · Docker · Swagger |
 | **Personas 360** | Lanbide (Gobierno Vasco) | Aplicación **construida desde cero**: frontend React y backend por microservicios | React · Spring Boot · JPA · Oracle |
 | **Docusi** | Gobierno Vasco | Plataforma de **interoperabilidad documental**; servicios SOAP (SREF) para intercambio de documentos entre entidades públicas | Spring Boot · SOAP · Oracle |
 | **T-gune** | Diputación Foral de Álava | Administración electrónica: procedimientos de tramitación y gestión de e-forms | Java · Struts 2 · JSF · WebSphere |
