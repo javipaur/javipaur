@@ -1,128 +1,92 @@
 <div align="center">
 
-# 👋 Hola, soy Javipaur
+# Javier Palacio Urraca
 
-### 💻 Full Stack Developer | Java · Spring Boot · React · Next.js
+### Senior Full Stack Developer · Java · Spring Boot · AI-Native
 
-Construyo aplicaciones web, APIs y soluciones full-stack, con especial interés en **backend, arquitectura de microservicios y desarrollo de productos digitales**.
+Construyo sistemas Java de misión crítica en sanidad y sector público, y construyo **servidores MCP propios que integran LLMs en aplicaciones reales**.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Alvarosanchezz3)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/javierpalaciourraca/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javierpalaciourraca/)
+[![Web](https://img.shields.io/badge/Web-javierpalacio.es-2b6cb0?style=for-the-badge)](https://javierpalacio.es)
+[![GitHub](https://img.shields.io/badge/GitHub-javipaur-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/javipaur)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
-* 🚀 Full Stack Developer especializado principalmente en **Java y Spring Boot**
-* 🔧 Experiencia trabajando con **microservicios y APIs REST**
-* 🎨 Desarrollo frontend con **React, React Native y Next.js**
-* 🐳 Trabajo con **Docker y entornos contenerizados**
-* 🗄️ Experiencia con **PostgreSQL, MySQL y MariaDB**
-* 🧪 Desarrollo orientado a calidad mediante **pruebas unitarias e integración**
-* 🌱 Siempre aprendiendo y experimentando con nuevas tecnologías
-* 💡 Me gusta convertir ideas en proyectos reales y funcionales
+- **10+ años** de desarrollo Full Stack en Java para el sector sanitario y el sector público: Gobierno Vasco, Lanbide, Diputación Foral de Álava, Osakidetza/Glintt.
+- **Backend sólido**: Spring Boot, JPA/Hibernate, Oracle, PostgreSQL, microservicios, APIs REST.
+- **Frontend real**: React, TypeScript, Next.js, Angular.
+- **Perfil AI-Native**: servidores MCP propios, agentes de IA en el ciclo de desarrollo, prompt engineering sistemático.
+- Ciclo de vida completo: requisitos, diseño, desarrollo, testing, despliegue, monitorización y soporte a producción.
+- Agile/Scrum, Jenkins, Docker, OpenShift, clean code, seguridad y observabilidad.
 
 ---
 
-## 🛠️ Tecnologías
+## IA y LLMs
 
-### Backend
+Construyo **servidores MCP (Model Context Protocol)** que exponen datos de negocio a agentes LLM, y automatizo mi propio flujo de desarrollo con agentes de IA.
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" title="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="45" height="45" title="Spring"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width="45" height="45" title="Hibernate"/>
-</p>
+| Proyecto | Qué hace |
+|---|---|
+| **[`garmin-coach-mcp`](https://github.com/javipaur/garmin-coach-mcp)** | Servidor MCP en **Python** que expone datos de entrenamiento, carga, sueño y rendimiento a agentes LLM, que los cruzan para generar una decisión de entrenamiento accionable y un plan de maratón en PDF. Suite de **tests automatizados**, `Dockerfile`, `docker-compose`, `pyproject.toml`, hooks **pre-commit** y **GitHub Actions** para CI. |
+| **[`mercaListMcp`](https://github.com/javipaur/mercaListMcp)** | Servidor MCP en **Node.js** para gestión de listas de compra mediante agentes de IA. Cliente y servidor separados, configuración de skills de agente y gestión segura de variables de entorno. |
 
-**Java · Spring Boot · Spring Security · Hibernate · REST APIs · Microservices**
+**Herramientas de IA que uso a diario en el desarrollo:** Claude / Claude Code, OpenCode (agentes de IA), GitHub Copilot, ChatGPT y Gemini como asistentes, y prompt engineering aplicado de forma sistemática —contexto estructurado, descomposición de tareas, iteración y **validación obligatoria del resultado antes de integrarlo**.
 
-### Frontend & Mobile
+---
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45" title="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" width="45" height="45" title="React Native"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="45" height="45" title="Next.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" height="45" title="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45"/>                                                   
-</p>
+## Stack
 
-**React · React Native · Next.js · TypeScript · JavaScript · Tailwind CSS**
+### Backend y arquitectura
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg) ![Spring](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg) ![Hibernate](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg) ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg) ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg)
+
+**Java · J2EE · Spring Boot · Spring Security · Spring Cloud · JPA · Hibernate · JWT · OAuth2 · Microservicios · REST · SOAP**
+
+### Frontend
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg) ![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg) ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg) ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg) ![Angular](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg)
+
+**React · Next.js · TypeScript · JavaScript · Angular · Storybook · HTML5 · CSS3**
 
 ### Bases de datos
+![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg) ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg) ![MariaDB](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg)
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" title="PostgreSQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" title="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" width="45" height="45" title="MariaDB"/>
-</p>
+**Oracle · PostgreSQL · MySQL · MariaDB · MongoDB · Oracle Data Integrator**
 
-### DevOps & Tools
+### DevOps, CI/CD y herramientas
+![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg) ![Jenkins](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg) ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg) ![GitHub Actions](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg)
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="45" height="45" title="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" title="GitHub"/>
-</p>
-
-**Docker · Git · GitHub · NGINX · Traefik · CI/CD**
+**Jenkins (pipelines CI/CD) · Docker · OpenShift · Git · GitHub · GitHub Actions · Maven · pre-commit · Scrum**
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos
 
-### 🌐 GasteizClick
-
-Agenda cultural de **Vitoria-Gasteiz** con información sobre eventos, actividades, ocio y cultura.
-
-**Tecnologías:** React Native · Next.js · APIs REST · Docker
-
----
-
-### 🏃 StravaForge
-
-Herramienta para analizar actividades de Strava y generar prompts personalizados para utilizar con modelos de IA.
-
-**Tecnologías:** Next.js · TypeScript · React · Tailwind CSS
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [`garmin-coach-mcp`](https://github.com/javipaur/garmin-coach-mcp) | Servidor MCP que cruza datos de rendimiento deportivo y genera decisiones de entrenamiento con LLM | Python · MCP · Docker · GitHub Actions · Tests |
+| [`mercaListMcp`](https://github.com/javipaur/mercaListMcp) | Servidor MCP para gestión de listas de compra con agentes de IA | Node.js · MCP · IA |
+| [`gasteiz-agenda`](https://github.com/javipaur/gasteiz-agenda) | Agenda de eventos de Vitoria-Gasteiz | JavaScript · Vite |
+| [`huescahoy`](https://github.com/javipaur/huescahoy) | Agenda de eventos de Huesca | TypeScript |
+| [`Strava-Plan`](https://github.com/javipaur/Strava-Plan) | Analiza actividades de Strava y genera prompts personalizados para modelos de IA | TypeScript · Next.js |
+| [`ApiRest`](https://github.com/javipaur/ApiRest) | API REST con Spring Boot, Swagger y JWT | Java · Spring Boot · JPA |
 
 ---
 
-### ⚖️ Lanaspadefensapenal
+## Contacto
 
-Proyecto web para un despacho profesional, desarrollado con una arquitectura moderna orientada a rendimiento y SEO.
-
-**Tecnologías:** Next.js · React · TypeScript
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Alvarosanchezz3&show_icons=true&theme=transparent&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvarosanchezz3&layout=compact&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
-## 📫 Contacto
-
-Si quieres hablar sobre desarrollo, tecnología o algún proyecto:
-
-* 💼 [LinkedIn](https://www.linkedin.com/in/javierpalaciourraca/)
-* 🐙 [GitHub](https://github.com/Alvarosanchezz3)
+- 💼 [LinkedIn](https://www.linkedin.com/in/javierpalaciourraca/)
+- 🌐 [javierpalacio.es](https://javierpalacio.es)
+- 🐙 [github.com/javipaur](https://github.com/javipaur)
+- 📍 Vitoria-Gasteiz, Álava, España · Remoto / Híbrido
+- 🌍 Español (nativo) · English (C1, professional working proficiency)
 
 ---
 
 <div align="center">
 
-### 🚀 Always learning. Always building.
+### Construyendo software con IA, no solo usándola.
 
 </div>
