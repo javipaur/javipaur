@@ -17,11 +17,11 @@ Construyo sistemas Java de misión crítica en sanidad y sector público, y cons
 ## Sobre mí
 
 - **10+ años** de desarrollo Full Stack en Java para el sector sanitario y el sector público: Gobierno Vasco, Lanbide, Diputación Foral de Álava, Osakidetza/Glintt.
-- **Backend sólido**: Spring Boot, JPA/Hibernate, Oracle, PostgreSQL, microservicios, APIs REST.
+- **Backend sólido**: Spring Boot, JPA/Hibernate, Oracle, PostgreSQL, microservicios, APIs REST, GraphQL, Swagger.
 - **Frontend real**: React, TypeScript, Next.js, Angular.
 - **Perfil AI-Native**: servidores MCP propios, agentes de IA en el ciclo de desarrollo, prompt engineering sistemático.
 - Ciclo de vida completo: requisitos, diseño, desarrollo, testing, despliegue, monitorización y soporte a producción.
-- Agile/Scrum, Jenkins, Docker, OpenShift, clean code, seguridad y observabilidad.
+- Agile/Scrum, **Jenkins y pipelines de CI/CD**, **Docker**, **OpenShift**, **JUnit**, clean code, seguridad y observabilidad.
 
 ---
 
@@ -71,18 +71,19 @@ Construyo **servidores MCP (Model Context Protocol)** que exponen datos de negoc
 
 **Oracle · PostgreSQL · MySQL · MariaDB · MongoDB · Oracle Data Integrator**
 
-### DevOps, CI/CD y herramientas
+### DevOps, CI/CD, testing y observabilidad
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="28" height="28" alt="Docker" title="Docker" style="vertical-align:middle;margin:0 4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="28" height="28" alt="Jenkins" title="Jenkins" style="vertical-align:middle;margin:0 4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="28" height="28" alt="Git" title="Git" style="vertical-align:middle;margin:0 4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="28" height="28" alt="GitHub Actions" title="GitHub Actions" style="vertical-align:middle;margin:0 4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openshift/openshift-original.svg" width="28" height="28" alt="OpenShift" title="OpenShift" style="vertical-align:middle;margin:0 4px">
 </p>
 
 ### Documentación y contratos de API
 Swagger / OpenAPI · diseño, documentación y mantenimiento de APIs REST · integración con servicios de terceros · esquemas GraphQL (Apollo)
 
-**Jenkins (pipelines CI/CD) · Docker · OpenShift · Git · GitHub · GitHub Actions · Maven · pre-commit · Scrum**
+**Jenkins (pipelines de CI/CD) · Docker · OpenShift · Git · GitHub · GitHub Actions · Maven · pre-commit · JUnit · Storybook · monitorización de producción · Scrum**
 
 ---
 
@@ -92,11 +93,11 @@ Plataformas y aplicaciones que he desarrollado o mantenido en producción. Major
 
 | Producto | Organismo / cliente | Qué hice | Stack |
 |---|---|---|---|
-| **keySmartCity** | Ayuntamientos de España | **Backend** de la plataforma de gestión urbana inteligente: servicios REST, lógica de negocio, API documentada con **Swagger**, integración con MariaDB y servicios de terceros, y despliegue en contenedores | Spring Boot · JPA/Hibernate · MariaDB · Docker · Swagger |
+| **keySmartCity** | Ayuntamientos de España | **Backend** de la plataforma de gestión urbana inteligente: servicios REST, lógica de negocio, API documentada con **Swagger**, integración con MariaDB y servicios de terceros, **monitorización en producción** y despliegue en contenedores | Spring Boot · JPA/Hibernate · MariaDB · Docker · Swagger |
 | **Personas 360** | Lanbide (Gobierno Vasco) | Aplicación **construida desde cero**: frontend React y backend por microservicios | React · Spring Boot · JPA · Oracle |
-| **Docusi** | Gobierno Vasco | Plataforma de **interoperabilidad documental**; servicios SOAP (SREF) para intercambio de documentos entre entidades públicas | Spring Boot · SOAP · Oracle |
-| **T-gune** | Diputación Foral de Álava | Administración electrónica: procedimientos de tramitación y gestión de e-forms | Java · Struts 2 · JSF · WebSphere |
-| **Aplicación hospitalaria** | Glintt (Osakidetza) | Full Stack en uso diario en entornos clínicos reales | Spring Boot · Spring Security · Oracle · PostgreSQL · React · Angular |
+| **Aplicación hospitalaria** | Glintt (Osakidetza) | Full Stack en uso diario en entornos clínicos reales, con Angular en el frontend y tests unitarios en la capa de servicios | Spring Boot · Spring Security · Oracle · PostgreSQL · React · Angular · JUnit |
+| **Docusi** | Gobierno Vasco | Plataforma de **interoperabilidad documental**; servicios SOAP (SREF) y despliegue en contenedores **OpenShift** | Spring Boot · SOAP · Oracle · OpenShift |
+| **T-gune** | Diputación Foral de Álava | Administración electrónica: procedimientos de tramitación, tests con JUnit y pipelines de CI/CD con Jenkins | Java · Struts 2 · JSF · WebSphere · Jenkins · JUnit |
 | **Producto propio de eventos** | Eventool | Desarrollo full stack; capa de datos con Apollo/GraphQL | J2EE · Apollo · GraphQL · Next.js · MongoDB |
 
 ---
