@@ -2,9 +2,9 @@
 
 # Javier Palacio Urraca
 
-### Senior Full Stack Developer · React · Next.js · Spring Boot · AI-Native
+### Senior Full Stack Developer · Java · React · AI-Native
 
-Construyo productos en React y Next.js —incluidas PWAs en producción— sobre sistemas Java de misión crítica en sanidad y sector público, y construyo **servidores MCP propios que integran LLMs en aplicaciones reales**.
+Construyo sistemas Java de misión crítica en sanidad y sector público, productos en React y Next.js, y **servidores MCP propios que integran LLMs en aplicaciones reales**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javierpalaciourraca/)
 [![Web](https://img.shields.io/badge/javierpalacio.es-2b6cb0)](https://javierpalacio.es)
@@ -17,8 +17,8 @@ Construyo productos en React y Next.js —incluidas PWAs en producción— sobre
 ## Sobre mí
 
 - **10+ años** de desarrollo Full Stack para el sector sanitario y el sector público: Gobierno Vasco, Lanbide, Diputación Foral de Álava, Osakidetza/Glintt.
+- **Backend sólido**: Spring Boot, JPA/Hibernate, Oracle, PostgreSQL, microservicios, APIs REST, GraphQL, Swagger.
 - **Frontend**: React, Next.js, TypeScript, Angular · Storybook · PWAs instalables · integración con APIs REST · i18n.
-- **Backend**: Spring Boot, JPA/Hibernate, Oracle, PostgreSQL, microservicios, APIs REST, GraphQL, Swagger.
 - **Perfil AI-Native**: servidores MCP propios, agentes de IA en el ciclo de desarrollo, prompt engineering sistemático.
 - Ciclo de vida completo: requisitos, diseño, desarrollo, testing, despliegue, monitorización y soporte a producción.
 - Agile/Scrum, **Jenkins y pipelines de CI/CD**, **Docker**, **OpenShift**, **JUnit**, clean code, seguridad y observabilidad.
@@ -40,17 +40,6 @@ Construyo **servidores MCP (Model Context Protocol)** que exponen datos de negoc
 
 ## Stack
 
-### Frontend
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="28" height="28" alt="React" title="React" style="vertical-align:middle;margin:0 4px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="28" height="28" alt="Next.js" title="Next.js" style="vertical-align:middle;margin:0 4px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="28" height="28" alt="TypeScript" title="TypeScript" style="vertical-align:middle;margin:0 4px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="28" height="28" alt="JavaScript" title="JavaScript" style="vertical-align:middle;margin:0 4px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="28" height="28" alt="Angular" title="Angular" style="vertical-align:middle;margin:0 4px">
-</p>
-
-**React · Next.js · TypeScript · JavaScript · Angular · Storybook · HTML5 · CSS3**
-
 ### Backend y arquitectura
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="28" height="28" alt="Java" title="Java" style="vertical-align:middle;margin:0 4px">
@@ -61,6 +50,17 @@ Construyo **servidores MCP (Model Context Protocol)** que exponen datos de negoc
 </p>
 
 **Java · J2EE · Spring Boot · Spring Security · Spring Cloud · JPA · Hibernate · JWT · OAuth2 · Microservicios · REST · SOAP**
+
+### Frontend
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="28" height="28" alt="React" title="React" style="vertical-align:middle;margin:0 4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="28" height="28" alt="Next.js" title="Next.js" style="vertical-align:middle;margin:0 4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="28" height="28" alt="TypeScript" title="TypeScript" style="vertical-align:middle;margin:0 4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="28" height="28" alt="JavaScript" title="JavaScript" style="vertical-align:middle;margin:0 4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="28" height="28" alt="Angular" title="Angular" style="vertical-align:middle;margin:0 4px">
+</p>
+
+**React · Next.js · TypeScript · JavaScript · Angular · Storybook · HTML5 · CSS3**
 
 ### Bases de datos
 <p>
