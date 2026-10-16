@@ -2,9 +2,9 @@
 
 # Javier Palacio Urraca
 
-### Senior Full Stack Developer · Java · Spring Boot · AI-Native
+### Senior Full Stack Developer · React · Next.js · Spring Boot · AI-Native
 
-Construyo sistemas Java de misión crítica en sanidad y sector público, y construyo **servidores MCP propios que integran LLMs en aplicaciones reales**.
+Construyo productos en React y Next.js —incluidas PWAs en producción— sobre sistemas Java de misión crítica en sanidad y sector público, y construyo **servidores MCP propios que integran LLMs en aplicaciones reales**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javierpalaciourraca/)
 [![Web](https://img.shields.io/badge/javierpalacio.es-2b6cb0)](https://javierpalacio.es)
@@ -16,9 +16,9 @@ Construyo sistemas Java de misión crítica en sanidad y sector público, y cons
 
 ## Sobre mí
 
-- **10+ años** de desarrollo Full Stack en Java para el sector sanitario y el sector público: Gobierno Vasco, Lanbide, Diputación Foral de Álava, Osakidetza/Glintt.
-- **Backend sólido**: Spring Boot, JPA/Hibernate, Oracle, PostgreSQL, microservicios, APIs REST, GraphQL, Swagger.
-- **Frontend real**: React, TypeScript, Next.js, Angular.
+- **10+ años** de desarrollo Full Stack para el sector sanitario y el sector público: Gobierno Vasco, Lanbide, Diputación Foral de Álava, Osakidetza/Glintt.
+- **Frontend**: React, Next.js, TypeScript, Angular · Storybook · PWAs instalables · integración con APIs REST · i18n.
+- **Backend**: Spring Boot, JPA/Hibernate, Oracle, PostgreSQL, microservicios, APIs REST, GraphQL, Swagger.
 - **Perfil AI-Native**: servidores MCP propios, agentes de IA en el ciclo de desarrollo, prompt engineering sistemático.
 - Ciclo de vida completo: requisitos, diseño, desarrollo, testing, despliegue, monitorización y soporte a producción.
 - Agile/Scrum, **Jenkins y pipelines de CI/CD**, **Docker**, **OpenShift**, **JUnit**, clean code, seguridad y observabilidad.
@@ -40,17 +40,6 @@ Construyo **servidores MCP (Model Context Protocol)** que exponen datos de negoc
 
 ## Stack
 
-### Backend y arquitectura
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="28" height="28" alt="Java" title="Java" style="vertical-align:middle;margin:0 4px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="28" height="28" alt="Spring" title="Spring" style="vertical-align:middle;margin:0 4px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width="28" height="28" alt="Hibernate" title="Hibernate" style="vertical-align:middle;margin:0 4px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="28" height="28" alt="Python" title="Python" style="vertical-align:middle;margin:0 4px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="28" height="28" alt="Node.js" title="Node.js" style="vertical-align:middle;margin:0 4px">
-</p>
-
-**Java · J2EE · Spring Boot · Spring Security · Spring Cloud · JPA · Hibernate · JWT · OAuth2 · Microservicios · REST · SOAP**
-
 ### Frontend
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="28" height="28" alt="React" title="React" style="vertical-align:middle;margin:0 4px">
@@ -61,6 +50,17 @@ Construyo **servidores MCP (Model Context Protocol)** que exponen datos de negoc
 </p>
 
 **React · Next.js · TypeScript · JavaScript · Angular · Storybook · HTML5 · CSS3**
+
+### Backend y arquitectura
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="28" height="28" alt="Java" title="Java" style="vertical-align:middle;margin:0 4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="28" height="28" alt="Spring" title="Spring" style="vertical-align:middle;margin:0 4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width="28" height="28" alt="Hibernate" title="Hibernate" style="vertical-align:middle;margin:0 4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="28" height="28" alt="Python" title="Python" style="vertical-align:middle;margin:0 4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="28" height="28" alt="Node.js" title="Node.js" style="vertical-align:middle;margin:0 4px">
+</p>
+
+**Java · J2EE · Spring Boot · Spring Security · Spring Cloud · JPA · Hibernate · JWT · OAuth2 · Microservicios · REST · SOAP**
 
 ### Bases de datos
 <p>
@@ -87,13 +87,25 @@ Swagger / OpenAPI · diseño, documentación y mantenimiento de APIs REST · int
 
 ---
 
+## Productos propios en producción
+
+No son ejercicios: están desplegados y los mantengo yo de principio a fin.
+
+| Producto | Qué es | Stack |
+|---|---|---|
+| **[Gasteiz Click](https://gasteizclick.javierpalacio.es)** · [código](https://github.com/javipaur/gasteiz-agenda) | Agenda cultural de Vitoria-Gasteiz: agrega **15 fuentes** externas, se actualiza cada pocos minutos y se consume desde web, app y feed RSS. **PWA instalable, publicada en Google Play**, con API pública. | Next.js · React · TypeScript · PWA |
+| **[Strava-Plan](https://github.com/javipaur/Strava-Plan)** | Analiza actividades de Strava y genera planes de entrenamiento y prompts personalizados para modelos de IA | TypeScript · Next.js |
+| **[huescahoy](https://github.com/javipaur/huescahoy)** | Agenda y eventos de Huesca | TypeScript |
+
+---
+
 ## Productos profesionales
 
 Plataformas y aplicaciones que he desarrollado o mantenido en producción. Majoritariamente de cliente, muchas críticas y de integración con estructuras de administración pública.
 
 | Producto | Organismo / cliente | Qué hice | Stack |
 |---|---|---|---|
-| **keySmartCity** | Ayuntamientos de España | **Backend** de la plataforma de gestión urbana inteligente: servicios REST, lógica de negocio, API documentada con **Swagger**, integración con MariaDB y servicios de terceros, **monitorización en producción**, despliegue en contenedores y **mentoring a junic junior** del equipo | Spring Boot · JPA/Hibernate · MariaDB · Docker · Swagger |
+| **keySmartCity** | Ayuntamientos de España | **Backend** de la plataforma de gestión urbana inteligente: servicios REST, lógica de negocio, API documentada con **Swagger**, integración con MariaDB y servicios de terceros, **monitorización en producción**, despliegue en contenedores y **mentoring a júnior** del equipo | Spring Boot · JPA/Hibernate · MariaDB · Docker · Swagger |
 | **Personas 360** | Lanbide (Gobierno Vasco) | Aplicación **construida desde cero**: frontend React y backend por microservicios | React · Spring Boot · JPA · Oracle |
 | **Aplicación hospitalaria** | Glintt (Osakidetza) | Full Stack en uso diario en entornos clínicos reales, con Angular en el frontend, tests unitarios en la capa de servicios y **code reviews** del equipo | Spring Boot · Spring Security · Oracle · PostgreSQL · React · Angular · JUnit |
 | **Docusi** | Gobierno Vasco | Plataforma de **interoperabilidad documental**; servicios SOAP (SREF) y despliegue en contenedores **OpenShift** | Spring Boot · SOAP · Oracle · OpenShift |
@@ -108,9 +120,6 @@ Plataformas y aplicaciones que he desarrollado o mantenido en producción. Major
 |---|---|---|
 | [`garmin-coach-mcp`](https://github.com/javipaur/garmin-coach-mcp) | Servidor MCP que cruza datos de rendimiento deportivo y genera decisiones de entrenamiento con LLM | Python · MCP · Docker · GitHub Actions · Tests |
 | [`mercaListMcp`](https://github.com/javipaur/mercaListMcp) | Servidor MCP para gestión de listas de compra con agentes de IA | Node.js · MCP · IA |
-| [`gasteiz-agenda`](https://github.com/javipaur/gasteiz-agenda) | Agenda de eventos de Vitoria-Gasteiz | JavaScript · Vite |
-| [`huescahoy`](https://github.com/javipaur/huescahoy) | Agenda de eventos de Huesca | TypeScript |
-| [`Strava-Plan`](https://github.com/javipaur/Strava-Plan) | Analiza actividades de Strava y genera prompts personalizados para modelos de IA | TypeScript · Next.js |
 | [`ApiRest`](https://github.com/javipaur/ApiRest) | API REST con Spring Boot, Swagger/OpenAPI y JWT | Java · Spring Boot · JPA |
 
 ---
@@ -121,7 +130,7 @@ Plataformas y aplicaciones que he desarrollado o mantenido en producción. Major
 - 🌐 [javierpalacio.es](https://javierpalacio.es)
 - 🐙 [github.com/javipaur](https://github.com/javipaur)
 - 📍 Vitoria-Gasteiz, Álava, España · Remoto / Híbrido
-- 🌍 Español (nativo) · English (C1, professional working proficiency)
+- 🌍 Español (nativo) · English (B2 — technical reading and writing, conversational)
 
 ---
 
