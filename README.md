@@ -93,7 +93,7 @@ No son ejercicios: están desplegados y los mantengo yo de principio a fin.
 
 | Producto | Qué es | Stack |
 |---|---|---|
-| **[Gasteiz Click](https://gasteizclick.javierpalacio.es)** · [código](https://github.com/javipaur/gasteiz-agenda) | Agenda cultural de Vitoria-Gasteiz: agrega **15 fuentes** externas, se actualiza cada pocos minutos y se consume desde web, app y feed RSS. **PWA instalable, publicada en Google Play**, con API pública. | Next.js · React · TypeScript · PWA |
+| **[Gasteiz Click](https://gasteizclick.javierpalacio.es)** · [código](https://github.com/javipaur/gasteiz-agenda) | Agenda cultural de Vitoria-Gasteiz: agrega **15+ fuentes** externas, se actualiza cada pocos minutos y se consume desde web, app y feed RSS. **PWA instalable, publicada en Google Play**, con API REST y push notifications. | Next.js 16 · React 19 · TypeScript · Tailwind · Jest · Playwright |
 | **[Strava-Plan](https://github.com/javipaur/Strava-Plan)** | Analiza actividades de Strava y genera planes de entrenamiento y prompts personalizados para modelos de IA | TypeScript · Next.js |
 | **[huescahoy](https://github.com/javipaur/huescahoy)** | Agenda y eventos de Huesca | TypeScript |
 
